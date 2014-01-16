@@ -16,7 +16,7 @@ gem 'therubyracer', platforms: :ruby
 
 gem 'jquery-rails'
 
-gem 'foundation-rails'
+gem 'foundation-rails', git: 'git@github.com:janlindblom/foundation-rails.git'
 
 gem 'turbolinks'
 
